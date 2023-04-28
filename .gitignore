@@ -1,0 +1,7 @@
+# VS code generated #
+######################
+.vscode
+```
+__pycache__/
+flagged/
+.*pyc
